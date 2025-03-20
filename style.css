@@ -5,3 +5,30 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+
+#header {
+    background-color:lightpink;
+    height: 60px;
+}
+a{
+
+}
+a:hover {
+    text-decoration: underline;
+}
+
+#hero {
+    font-size: 22px;
+}
+
+#hero h1{
+    font-size: 66px;
+}
+
+cta{
+    background-color: blueviolet;
+}
+
+#cta:hover{
+    background-color:blue
+}
